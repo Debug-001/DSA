@@ -28,6 +28,7 @@ function binarySearch(arr, target) {
 return -1
 }
 
+//The output is -1 because the array is sorted in descending order, but the binary search algorithm provided is designed for arrays sorted in ascending order. In a descending order array, the logic for adjusting the start and end indices needs to be reversed. 
 let arr = [90,75,18,12,6,4,3,1]
 let target = 90
 let res = binarySearch (arr,target)
