@@ -1,0 +1,1 @@
+Note: This is a Data Structures and Algorithms playlist where I elaborate in details about every question from easy to hardest topics. You build the logic required and you'll be able to code regardless of language restrictions.
