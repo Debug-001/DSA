@@ -71,7 +71,7 @@ function orderBS(arr, target, start, end) {
   return -1;
 }
 
-let arr = [1, 2, 3, 4, 1, 3, 1,0,5];
+let arr = [1, 2, 3, 4, 1, 3, 1,0];
 let target = 5;
 let res = binarySearch(arr, target);
 console.log(res);
