@@ -78,6 +78,6 @@ function search(nums, target) {
 }
 
 let nums = [2, 9, 2, 2, 2];
-let target = 9;
+let target = 2;
 let res = search(nums, target);
 console.log(res);
